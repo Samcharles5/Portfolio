@@ -5,7 +5,7 @@ Explore my portfolio built with HTML, CSS, JS, EJS, Node, Express, and MongoDB. 
 - [Projects](#projects)
 - [Skills](#skills)
 - [Contact](#contact)
-- [Portfolio link](#Portfolio link)
+- Portfolio link
 
 ## About
 
