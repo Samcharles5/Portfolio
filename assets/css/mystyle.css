@@ -1,0 +1,23 @@
+header{
+
+  background-color: black;
+}
+.wrap-flex {
+    display: flex; 
+    /* baseline | center | stretch */
+  }
+.myresume{
+  text-align: center;
+  padding: 15px 0;
+  background-color: rgb(20,157,221);
+  color: black;
+  border-radius: 6px 6px 25px 25px;
+
+}
+ 
+.myproject{
+  width: 600px;
+  max-height: 300px;
+  min-height: 250px;
+}
+
